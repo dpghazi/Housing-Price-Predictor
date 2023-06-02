@@ -11,3 +11,10 @@ Building machine learning models that can predict the price of apartments in the
 
 ### Tools & Libraries
 * Python (Pandas, Matplotlib, Plotly, Scikit-learn)
+
+### Featured Notebooks
+* [Buenos Aires](https://dpghazi-wqu-ds.s3.amazonaws.com/predicting-buenos-aires-apartment-price-with-size.html)
+* [Buenos Aires](https://dpghazi-wqu-ds.s3.amazonaws.com/predicting-buenos-aires-apartment-price-with-location.html)
+* [Buenos Aires](https://dpghazi-wqu-ds.s3.amazonaws.com/predicting-buenos-aires-apartment-price-with-neighborhood.html)
+* [Buenos Aires](https://dpghazi-wqu-ds.s3.amazonaws.com/predicting-buenos-aires-apartment-price-with-size-location-and-neighborhood.html)
+* [Mexico City](https://dpghazi-wqu-ds.s3.amazonaws.com/predicting-apartment-prices-in-mexico-city.html)
